@@ -1,0 +1,6 @@
+word: prod
+
+server:
+  port: 8080
+
+
